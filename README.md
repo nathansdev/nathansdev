@@ -1,15 +1,14 @@
 ## Hola World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-
 <br />
 
-### Good to see you here! 🤩
+## Good to see you here! 🤩
 
 I'm a mobile developer currently working in [Fidisys](https://www.linkedin.com/company/fidisys) and exploring the world of startup.
 
 <img align="right" alt="GIF" width="300px" height="300px" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" />
 
-### More about me...
+## More about me...
 
 - 🔭 I’m currently working on Flutter, Dart etc 💻.
 - 🌱 In ♥️ with Flutter and its awesomeness 🚀.
@@ -18,7 +17,7 @@ I'm a mobile developer currently working in [Fidisys](https://www.linkedin.com/c
 - 💬 Always happy to help, Reach me in [Twitter](https://twitter.com/nathansdev)
 - ⚡  Fun fact: Whats the diff bw APPLE and ANDROID?. Ans: When android copies its copy, when APPLE copy its called "Innovation" 👨‍💻.
 
-### Show some ❤️ by starring some of the repositories!
+## Show some ❤️ by starring some of the repositories!
 
 <br />
 
