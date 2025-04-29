@@ -4,7 +4,7 @@
 
 ## Good to see you here! 🤩
 
-I'm a Senior Mobile Developer working in [Fidisys](https://www.linkedin.com/company/fidisys).
+Lead Developer working in [Fidisys](https://www.linkedin.com/company/fidisys).
 
 <img align="right" alt="GIF" width="300px" height="300px" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" />
 
