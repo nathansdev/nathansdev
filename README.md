@@ -10,12 +10,12 @@ Lead Developer working in [Fidisys](https://www.linkedin.com/company/fidisys).
 
 ## More about me...
 
-- 🔭 I’m currently working on AI Integrations (using OPEN AI apis, AWS Bedrock), React on The Frontend,  Flutter, and Dart for mobile,e etc 💻.
+- 🔭 I’m currently working on AI Integrations (using OPEN AI apis, AWS Bedrock), React on The Frontend,  Flutter, and Dart for mobile 💻.
 - 🌱 In ♥️ with Flutter and its awesomeness 🚀.
 - 👯 I’m looking to collaborate on any Interesting project, especially with other startups.
 - 📫 How to reach me: sabari@fidisys.com | [LinkedIn](https://www.linkedin.com/in/sabarinathan-in/) | [Twitter](https://twitter.com/nathansdev)
 - 💬 Always happy to help, Reach me in [Twitter](https://twitter.com/nathansdev)
-- ⚡  Fun fact: Whats the diff bw APPLE and ANDROID?. Ans: When android copies its copy, when APPLE copy its called "Innovation" 👨‍💻.
+- ⚡  Fun fact: What's the diff between APPLE and ANDROID?. Ans: When Android copies its copy, when APPLE copies it's called "Innovation" 👨‍💻.
 
 ## Show some ❤️ by starring some of the repositories!
 
