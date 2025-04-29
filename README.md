@@ -4,15 +4,15 @@
 
 ## Good to see you here! 🤩
 
-I'm a Senior Mobile Developer currently working in [Fidisys](https://www.linkedin.com/company/fidisys).
+I'm a Senior Mobile Developer working in [Fidisys](https://www.linkedin.com/company/fidisys).
 
 <img align="right" alt="GIF" width="300px" height="300px" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" />
 
 ## More about me...
 
-- 🔭 I’m currently working on Flutter, Dart etc 💻.
+- 🔭 I’m currently working on AI Integrations (using OPEN AI apis, AWS Bedrock), React on The Frontend,  Flutter, and Dart for mobile,e etc 💻.
 - 🌱 In ♥️ with Flutter and its awesomeness 🚀.
-- 👯 I’m looking to collaborate on any Interesting project that comes, especially with other startups.
+- 👯 I’m looking to collaborate on any Interesting project, especially with other startups.
 - 📫 How to reach me: sabari@fidisys.com | [LinkedIn](https://www.linkedin.com/in/sabarinathan-in/) | [Twitter](https://twitter.com/nathansdev)
 - 💬 Always happy to help, Reach me in [Twitter](https://twitter.com/nathansdev)
 - ⚡  Fun fact: Whats the diff bw APPLE and ANDROID?. Ans: When android copies its copy, when APPLE copy its called "Innovation" 👨‍💻.
