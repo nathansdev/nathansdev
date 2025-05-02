@@ -10,8 +10,9 @@ Lead Developer working in [Fidisys](https://www.linkedin.com/company/fidisys).
 
 ## More about me...
 
-- 🔭 I’m currently working on AI Integrations (using OPEN AI apis, AWS Bedrock), React on The Frontend,  Flutter, and Dart for mobile 💻.
+- 🔭 I’m currently working on AI Integrations (using OPEN AI apis, AWS Bedrock), React on The Frontend, Firebase, Supabase, NodeJs for the Backend,  Flutter, and Dart for mobile 💻 , AWS, Netlify, Github for deployments.
 - 🌱 In ♥️ with AI tools and their capabilities 🚀.
+- Some of the recent works [InktoIvy](https://www.inktoivy.com/) , [Futureforward](https://www.futureforward.app/)
 - 👯 I’m looking to collaborate on any Interesting project, especially with other startups.
 - 📫 How to reach me: sabari@fidisys.com | [LinkedIn](https://www.linkedin.com/in/sabarinathan-in/) | [Twitter](https://twitter.com/nathansdev)
 - 💬 Always happy to help, Reach me in [Twitter](https://twitter.com/nathansdev)
